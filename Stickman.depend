@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1550924161 source:c:\users\tuoit\desktop\new folder\stickman1\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1551028560 c:\users\tuoit\desktop\new folder\stickman1\console.h
+	<windows.h>
+
+1550806656 source:c:\users\tuoit\desktop\new folder\stickman1\resource.rc
+
+1550923567 source:c:\users\tuoit\desktop\new folder\stickman1\menu.cpp
+
+1550925319 source:c:\users\tuoit\desktop\new folder\stickman1\play.cpp
+
+1551373836 source:c:\users\tuoit\desktop\new folder\stickman1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+	<time.h>
+	<thread>
+	<vector>
+	<windows.h>
+	<mmsystem.h>
+	"console.h"
+	"image.h"
+
+1550925296 c:\users\tuoit\desktop\new folder\stickman1\play.h
+	<windows.h>
+
+1551288726 c:\users\tuoit\desktop\new folder\stickman1\image.h
+	<string>
+
